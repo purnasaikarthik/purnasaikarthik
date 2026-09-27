@@ -40,7 +40,7 @@
 **[Smart Attendance Planner](https://github.com/purnasaikarthik/SMart-Attendance-Planner)**
 Tracks subject-wise attendance and calculates the safest way to bunk without falling below the required percentage. Flutter + Supabase (PostgreSQL, RLS, Auth).
 
-**[24BUS](https://github.com/purnasaikarthik)**
+**[24BUS](https://github.com/purnasaikarthik/24BUS)**
 A multi-tenant campus bus booking platform for passengers and admin bus coordinators, with QR-verified registration. Flutter + Supabase.
 
 **[Drain Monitor](https://github.com/purnasaikarthik)**
