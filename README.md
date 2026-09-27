@@ -37,7 +37,7 @@
 
 ### 🚀 Featured Projects
 
-**[Smart Attendance Planner](https://github.com/purnasaikarthik)**
+**[Smart Attendance Planner](https://github.com/purnasaikarthik/SMart-Attendance-Planner)**
 Tracks subject-wise attendance and calculates the safest way to bunk without falling below the required percentage. Flutter + Supabase (PostgreSQL, RLS, Auth).
 
 **[24BUS](https://github.com/purnasaikarthik)**
